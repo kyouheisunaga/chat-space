@@ -1,6 +1,6 @@
 # Chat-Space
 
-# DB design
+# DB Design
 
 ## tweetsテーブル
 
